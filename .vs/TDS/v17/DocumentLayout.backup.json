@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\assets\\2.script\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\2.script\\creature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\assets\\2.script\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\2.script\\zombie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|c:\\users\\hdnwl\\desktop\\project\\tds\\assets\\2.script\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\2.script\\spawn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\assets\\2.script\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\2.script\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|c:\\users\\hdnwl\\desktop\\project\\tds\\assets\\2.script\\gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\2.script\\gamemanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\assets\\2.script\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\2.script\\box.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\assets\\whiteflash.shader||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\whiteflash.shader||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\assets\\2.script\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\2.script\\damagetext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\assets\\2.script\\poolingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF0C5F57-A5E6-1074-C84F-89B83AED8CEC}|Assembly-CSharp.csproj|solutionrelative:assets\\2.script\\poolingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 306,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Creature.cs",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Creature.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Script\\Creature.cs",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Creature.cs",
+              "RelativeToolTip": "Assets\\2.Script\\Creature.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwB4AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:43:57.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Hero.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Script\\Hero.cs",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Hero.cs",
+              "RelativeToolTip": "Assets\\2.Script\\Hero.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAwwDYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:22:34.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WhiteFlash.shader",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\WhiteFlash.shader",
+              "RelativeDocumentMoniker": "Assets\\WhiteFlash.shader",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\WhiteFlash.shader",
+              "RelativeToolTip": "Assets\\WhiteFlash.shader",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002777|",
+              "WhenOpened": "2025-02-28T09:19:06.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DamageText.cs",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\DamageText.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Script\\DamageText.cs",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\DamageText.cs",
+              "RelativeToolTip": "Assets\\2.Script\\DamageText.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:49:39.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameManger.cs",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\GameManger.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Script\\GameManger.cs",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\GameManger.cs",
+              "RelativeToolTip": "Assets\\2.Script\\GameManger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T13:02:57.759Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 276,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Box.cs",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Box.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Script\\Box.cs",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Box.cs",
+              "RelativeToolTip": "Assets\\2.Script\\Box.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T09:43:30.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Spawn.cs",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Spawn.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Script\\Spawn.cs",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Spawn.cs",
+              "RelativeToolTip": "Assets\\2.Script\\Spawn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T08:16:41.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zombie.cs",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Zombie.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Script\\Zombie.cs",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\Zombie.cs",
+              "RelativeToolTip": "Assets\\2.Script\\Zombie.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAowJEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:47:44.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PoolingManager.cs",
+              "DocumentMoniker": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\PoolingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\2.Script\\PoolingManager.cs",
+              "ToolTip": "C:\\Users\\hdnwl\\Desktop\\Project\\TDS\\Assets\\2.Script\\PoolingManager.cs",
+              "RelativeToolTip": "Assets\\2.Script\\PoolingManager.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAUwF0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:13:26.566Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
