@@ -59,7 +59,7 @@ public class Zombie : Creature
         layerNum = this.gameObject.layer;
         RaycastHit2D hitMonster = Physics2D.Raycast(this.gameObject.transform.position + new Vector3(-0.7f, 0.3f, 0), Vector2.left,0.25f, LayerMask.GetMask(LayerMask.LayerToName(layerNum)));
        // RaycastHit2D[] hitMonsterAll = Physics2D.RaycastAll(this.gameObject.transform.position + new Vector3(-0.5f, 0.75f, 0), Vector2.left, 0.5f);
-        RaycastHit2D hitCreture = Physics2D.Raycast(this.gameObject.transform.position + new Vector3(-0.5f,0.6f,0), Vector2.left, 0.8f,(LayerMask.GetMask("Box") | (LayerMask.GetMask("Hero"))));
+        RaycastHit2D hitCreture = Physics2D.Raycast(this.gameObject.transform.position + new Vector3(-0.5f,0.6f,0), Vector2.left, 1f,(LayerMask.GetMask("Box") | (LayerMask.GetMask("Hero"))));
         RaycastHit2D hitUp = Physics2D.Raycast(this.gameObject.transform.position + new Vector3(-0.5f, 0.6f, 0), Vector2.up, 1f, LayerMask.GetMask(LayerMask.LayerToName(layerNum)));
 
         RaycastHit2D hitDown = Physics2D.Raycast(this.gameObject.transform.position + new Vector3(-0.5f, 0.6f, 0), Vector2.down, 1f, LayerMask.GetMask(LayerMask.LayerToName(layerNum)) | LayerMask.GetMask(groundName));

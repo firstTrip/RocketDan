@@ -83,7 +83,7 @@ MonoBehaviour:
   flashDuration: 0.2
   rb: {fileID: 3889313818558904319}
   anim: {fileID: 7016750400611631704}
-  speed: 5
+  speed: 3
   jumpForce: 5
   layerNum: 0
   groundName: 
